@@ -74,3 +74,29 @@ label{
     margin-top:40px;
     text-align: center;
 }
+
+
+
+/*--------------------MEDIA Q's----------------------------------*/
+@media (max-width: 600px){
+    body{
+        background-color:rgb(0, 153, 255);
+    }
+    #col-iz{
+        padding-bottom:20px;
+    }
+    .full{
+        height:100px;
+        color:whitesmoke;
+    }
+    #col-de{
+        border-radius: 15px;;
+        padding-top:15px;
+    }
+    form{
+        font-family: 'Nunito', sans-serif;
+        margin:0;
+        padding:15px;
+        font-size:10pt;
+    }
+}
