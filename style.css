@@ -1,0 +1,76 @@
+body{
+padding:0;
+margin:0;
+background-color:whitesmoke;
+
+    
+}
+.full{
+    height:150px;
+    font-size:27pt;
+    font-family: 'Nunito', sans-serif;
+    font-weight:800;
+    color:blue;
+}
+.full p{
+    padding-top:15px;
+    padding-left:50px;
+}
+.container-refr{
+    width:70%;
+    margin:auto;
+    box-shadow: rgba(0, 0, 0, 0.808) 7px 7px 7px
+}
+#col-iz{
+    text-align: center;
+    background-color:rgb(0, 153, 255);
+}
+#col-iz img {
+max-width:90%;
+}
+#col-de{
+    background-color:white;
+}
+
+
+#log{
+    color:rgb(48, 48, 48);
+    font-size:27pt;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    padding-top:45px;
+    font-weight:600;
+}
+input{
+    background-color:rgba(255, 255, 255, 0.863);
+    border:none;
+    height:40px;
+    border-radius: 3px;
+    width:30px;;
+}
+form{
+    font-family: 'Nunito', sans-serif;
+    margin:3vh;
+    padding:30px;
+}
+#exampleCheck1{
+    width:15px;
+    height:15px;
+}
+.btn-con{
+    margin-top:30px;
+    text-align: center;
+}
+button{
+    color:white;
+    font-family: 'Nunito', sans-serif;
+}
+label{
+    font-size:12pt;
+    font-weight:600;
+    color:rgb(78, 78, 78);
+}
+.con-btn{
+    margin-top:40px;
+    text-align: center;
+}
